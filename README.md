@@ -1,5 +1,5 @@
 #### Driven by the thought that one can solve any problem of the universe using ML / DL, as long as one can convert it into numbers (tensors) and find a pattern.
-
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=000000&label=PROFILE+VIEWS&style=for-the-badge)](https://github.com/YOUR_USERNAME)
 ---
 
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FF0000)
