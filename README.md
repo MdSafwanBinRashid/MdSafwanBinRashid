@@ -1,116 +1,83 @@
 # MD Safwan Bin Rashid
-### Computational Psychology Enthusiast
+**Computational Psychology | Machine Learning Research**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-safwan-bin-rashid-887439249/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsafwanbinrashid2@gmail.com)
-
----
-
-## 👨‍🎓 About Me
-
-Computational Psychology enthusiast focused on applying Machine Learning and Artificial Intelligence to understand and model human cognition. I believe any problem can be solved by converting it into numbers (tensors) and finding patterns.
-
-**🎓 Education**  
-B.S. Computer Science, Minor in Psychology @ University of Southern Mississippi  
-**GPA: 3.86/4.0** | Dean's List (Fall '24, Spring '25)
-
-**🔬 Current Research**  
-Research Assistant @ Experimental Health Psychology Lab (Dr. Tammy Greer)  
-*Bringing computational perspective to mental health research*
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-safwan-bin-rashid-887439249/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:mdsafwanbinrashid2@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)](https://github.com/yourusername)
 
 ---
 
-## 🛠 Technical Skills
+## 👋 About Me
+
+Undergraduate researcher blending Computer Science and Psychology to model human cognition through machine learning. Passionate about solving complex problems by finding patterns in data.
+
+**Current Focus:** Research Assistant @ Experimental Health Psychology Lab (Dr. Tammy Greer)
+
+**Education:** B.S. Computer Science, Minor in Psychology @ University of Southern Mississippi  
+**GPA:** 3.86/4.0 | Dean's List
+
+---
+
+## 💻 Tech Stack
 
 ### **Programming Languages**
-`C` `C++` `Python` `Java` `MySQL`
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Machine Learning & Data Science**
-`Scikit-learn` `NumPy` `Pandas` `Matplotlib` `Seaborn` `Data Analysis` `Statistical Modeling`
+### **Data Science & ML**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-### **Software Engineering**
-`Git` `Data Structures` `Algorithms` `Object-Oriented Programming (OOP)` `System Design`
+### **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?style=for-the-badge&logo=autodesk&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### **Databases**
-`MySQL` `Database Management` `Query Optimization`
-
-### **Development Tools & IDEs**
-`Google Colab` `Jupyter Notebook` `VS Code` `PyCharm` `Xcode` `Code::Blocks`
-
-### **Web & Design**
-`WordPress` `Web Development` `AutoCAD` `Technical Design`
-
-### **Project Management**
-`Work Breakdown Structure (WBS)` `Project Planning` `IT Project Management`
-
-### **Productivity Tools**
-`Microsoft Office Suite` `Documentation` `Technical Writing`
-
-### **Research & Analysis**
-`Academic Research` `Experimental Design` `Data Collection` `Psychological Research Methods`
-
-### **Competitive Skills**
-`Competitive Programming` `Algorithm Optimization` `Problem Solving`
+### **Domains**
+![Data Structures](https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-4ECDC4?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-45B7D1?style=for-the-badge)
+![Research](https://img.shields.io/badge/Research-96CEB4?style=for-the-badge)
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
-### 🔍 AVL Student Database
-- Developed efficient student database using AVL trees with O(log n) operations
-- **Tech:** C++, Data Structures, Algorithm Optimization
+### 🎓 **AVL Student Database**
+_C++ • Data Structures • Algorithms_  
+Student record system with O(log n) operations using AVL trees
 
-### 🌐 Alumni Networking Platform (V1.0)
-- Comprehensive project plan for alumni networking system
-- **Tech:** Project Management, System Design, WBS
+### 🔗 **Alumni Networking Platform**  
+_Project Management • System Design_  
+Comprehensive project plan for university alumni network
 
-### ⛓ Immutable Criminal Records with Blockchain
-- Proposed evidence management system using Hyperledger Fabric
-- **Semi-finalist** at Blockchain Olympiad Bangladesh 2023
-
----
-
-## 💼 Experience
-
-**Research Assistant** | School of Psychology, USM  
-*Applying computational methods to health psychology research*
-
-**Student Worker** | Aramark, USM  
-*Managing operations and event catering*
-
-**Academic Mentor** | Self-employed  
-*Tutoring Mathematics and Science (Grade 8-12)*
-
-**Junior Executive** | Energypac Power Generation PLC  
-*Inventory management and logistics planning*
+### ⛓ **Blockchain Criminal Records**  
+_Hyperledger • Blockchain_  
+Evidence management system - Blockchain Olympiad Bangladesh Semi-finalist
 
 ---
 
 ## 🏆 Achievements
 
-- **Dean's List** - School of Computing Sciences and Computer Engineering
-- **Semi-finalist** - ClimateScience Olympiad 2023
-- **Delegate** - Global Peace Chain 2024
-- **Valedictorian** - Willes Little Flower School & College
-- **Academic Excellence Scholar** (4-year scholarship)
-- **Head Boy** - Willes Little Flower School & College
+- **Research Assistant** @ Psychology Lab (Current)
+- **Dean's List** (Fall '24, Spring '25)
+- **Semi-finalist** @ ClimateScience Olympiad '23
+- **Valedictorian** - Class of '22
+- **Academic Excellence Scholar** (4-year)
 
 ---
 
 ## 🌍 Languages
 
-- **English** (C2 - Proficient)
-- **Bengali** (Native)
-- **French** (B1 - Intermediate)
-- **Urdu** (B1 - Intermediate)
-
----
-
-## 🤝 Involvement
-
-- **General Member** - USM Badminton Club
-- **Event Coordinator** - Bangladeshi Student Association (BSA)
-- **French Instructor** - DPT Foreign Language Club
+**English** (C2) | **Bengali** (Native) | **French** (B1) | **Urdu** (B1)
 
 ---
 
