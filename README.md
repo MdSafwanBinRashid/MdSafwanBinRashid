@@ -2,8 +2,6 @@
 
 ---
 
-## Stack
-
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=2E8B57)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=2E8B57)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=2E8B57)
