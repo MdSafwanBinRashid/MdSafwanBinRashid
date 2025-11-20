@@ -6,7 +6,6 @@
 I am particularly interested in Computational Psychology w/ focus on applying Machine Learning and Artificial Intelligence to understand and model human cognition. Driven by the thought that one can solve any problem of the universe, as long as one can convert it into numbers (tensors) and find a pattern.
 
 **Education:** B.S. Computer Science, Minor in Psychology @ University of Southern Mississippi  
-**GPA:** 3.86/4.0 | Dean's List
 
 ---
 
