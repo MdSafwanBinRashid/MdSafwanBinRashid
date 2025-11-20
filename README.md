@@ -1,5 +1,5 @@
 ### **CompSci Sophomore & Psych Minor @ Southern Miss**
-Driven by the thought that one can solve any problem of the universe, as long as one can convert it into numbers (tensors) and find a pattern.
+Driven by the thought that one can solve any problem of the universe using ML/DL, as long as one can convert it into numbers (tensors) and find a pattern.
 
 ---
 
