@@ -1,7 +1,7 @@
 # MD Safwan Bin Rashid
 **Computational Psychology**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-safwan-bin-rashid-887439249/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-safwan-bin-rashid-887439249/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mdsafwanbinrashid2@gmail.com)
 
 ---
