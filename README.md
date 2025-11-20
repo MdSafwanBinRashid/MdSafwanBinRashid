@@ -1,5 +1,5 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-safwan-bin-rashid-887439249/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mdsafwanbinrashid2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-safwan-bin-rashid-887439249/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsafwanbinrashid2@gmail.com)
 
 ---
 
@@ -8,17 +8,17 @@ I am particularly interested in Computational Psychology w/ focus on applying Ma
 ## 🎓 Education
 
 ![CompSci Sophomore](https://img.shields.io/badge/CompSci_Sophomore-0077B5?style=for-the-badge&logo=computer&logoColor=white)
-![Psych Minor](https://img.shields.io/badge/Psych_Minor-8A2BE2?style=for-the-badge&logo=psychology&logoColor=white)
-![USM](https://img.shields.io/badge/USM-FFD700?style=for-the-badge&logo=university&logoColor=black)
+![Psych Minor](https://img.shields.io/badge/Psych_Minor-8A2BE2?style=for-the-badge&logo=brain&logoColor=white)
+![USM](https://img.shields.io/badge/USM-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=black)
 
 ---
 
 ## 💻 Tech Stack
 
 ### **Programming Languages**
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
