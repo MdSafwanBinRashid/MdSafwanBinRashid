@@ -1,6 +1,5 @@
 #### Driven by the thought that one can solve any problem of the universe using ML / DL, as long as one can convert it into numbers (tensors) and find a pattern.
 ---
-
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FF0000)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=FF0000)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000)
