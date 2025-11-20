@@ -1,4 +1,3 @@
-# MD Safwan Bin Rashid
 **Computational Psychology**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-safwan-bin-rashid-887439249/)
@@ -6,7 +5,7 @@
 
 ---
 
-## 👋 About Me
+## About
 
 Undergraduate researcher blending Computer Science and Psychology to model human cognition through machine learning. Passionate about solving complex problems by finding patterns in data.
 
