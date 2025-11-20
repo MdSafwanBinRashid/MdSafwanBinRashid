@@ -1,10 +1,6 @@
+### **CompSci Sophomore & Psych Minor @ Southern Miss**
+
 I am particularly interested in Computational Psychology w/ focus on applying Machine Learning and Artificial Intelligence to understand and model human cognition. Driven by the thought that one can solve any problem of the universe, as long as one can convert it into numbers (tensors) and find a pattern.
-
-## 🎓 Education
-
-![CompSci](https://img.shields.io/badge/CompSci-000000?style=for-the-badge&logo=code&logoColor=2E8B57)
-![Psych](https://img.shields.io/badge/Psych-000000?style=for-the-badge&logo=psychology&logoColor=2E8B57)
-![Southern Miss](https://img.shields.io/badge/Southern_Miss-000000?style=for-the-badge&logo=graduation-cap&logoColor=2E8B57)
 
 ---
 
