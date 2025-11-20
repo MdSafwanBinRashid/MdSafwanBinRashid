@@ -1,9 +1,8 @@
 # MD Safwan Bin Rashid
-**Computational Psychology | Machine Learning Research**
+**Computational Psychology**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-safwan-bin-rashid-887439249/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:mdsafwanbinrashid2@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)](https://github.com/yourusername)
 
 ---
 
@@ -46,38 +45,6 @@ Undergraduate researcher blending Computer Science and Psychology to model human
 ![Algorithms](https://img.shields.io/badge/Algorithms-4ECDC4?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-45B7D1?style=for-the-badge)
 ![Research](https://img.shields.io/badge/Research-96CEB4?style=for-the-badge)
-
----
-
-## 📌 Featured Projects
-
-### 🎓 **AVL Student Database**
-_C++ • Data Structures • Algorithms_  
-Student record system with O(log n) operations using AVL trees
-
-### 🔗 **Alumni Networking Platform**  
-_Project Management • System Design_  
-Comprehensive project plan for university alumni network
-
-### ⛓ **Blockchain Criminal Records**  
-_Hyperledger • Blockchain_  
-Evidence management system - Blockchain Olympiad Bangladesh Semi-finalist
-
----
-
-## 🏆 Achievements
-
-- **Research Assistant** @ Psychology Lab (Current)
-- **Dean's List** (Fall '24, Spring '25)
-- **Semi-finalist** @ ClimateScience Olympiad '23
-- **Valedictorian** - Class of '22
-- **Academic Excellence Scholar** (4-year)
-
----
-
-## 🌍 Languages
-
-**English** (C2) | **Bengali** (Native) | **French** (B1) | **Urdu** (B1)
 
 ---
 
