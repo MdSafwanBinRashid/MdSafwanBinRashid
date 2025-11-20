@@ -28,19 +28,13 @@ I am particularly interested in Computational Psychology w/ focus on applying Ma
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-### **Tools & Technologies**
+### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?style=for-the-badge&logo=autodesk&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-### **Domains**
-![Data Structures](https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-4ECDC4?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-45B7D1?style=for-the-badge)
-![Research](https://img.shields.io/badge/Research-96CEB4?style=for-the-badge)
 
 ---
 
