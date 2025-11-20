@@ -15,6 +15,18 @@ I am particularly interested in Computational Psychology w/ focus on applying Ma
 
 ## 💻 Tech Stack
 
-![C/C++/Python/Java/MySQL](https://img.shields.io/badge/C/C++/Python/Java/MySQL-000000?style=for-the-badge&logo=code&logoColor=red)
-![Pandas/NumPy/Scikit-learn/Matplotlib](https://img.shields.io/badge/Pandas/NumPy/Scikit--learn/Matplotlib-000000?style=for-the-badge&logo=chart-line&logoColor=red)
-![Git/Jupyter/VS_Code/PyCharm/AutoCAD/WordPress](https://img.shields.io/badge/Git/Jupyter/VS_Code/PyCharm/AutoCAD/WordPress-000000?style=for-the-badge&logo=tools&logoColor=red)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=red)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=red)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=red)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=red)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=red)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=red)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=red)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=red)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=chart.js&logoColor=red)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=red)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=red)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=red)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=red)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?style=for-the-badge&logo=autodesk&logoColor=red)
+![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=red)
