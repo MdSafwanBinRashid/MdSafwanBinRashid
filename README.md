@@ -2,7 +2,7 @@
 **Computational Psychology**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-safwan-bin-rashid-887439249/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsafwanbinrashid2@gmail.com)
+[![Email](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=EA4335)](mailto:mdsafwanbinrashid2@gmail.com)
 
 ---
 
