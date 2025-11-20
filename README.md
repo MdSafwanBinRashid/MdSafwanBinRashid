@@ -3,7 +3,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-safwan-bin-rashid-887439249/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsafwanbinrashid2@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
 ---
 
@@ -112,13 +111,6 @@ Research Assistant @ Experimental Health Psychology Lab (Dr. Tammy Greer)
 - **General Member** - USM Badminton Club
 - **Event Coordinator** - Bangladeshi Student Association (BSA)
 - **French Instructor** - DPT Foreign Language Club
-
----
-
-## 📊 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true)](https://github.com/yourusername)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
 
 ---
 
