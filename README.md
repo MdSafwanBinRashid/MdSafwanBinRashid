@@ -1,8 +1,3 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=2E8B57)](https://www.linkedin.com/in/md-safwan-bin-rashid-887439249/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=2E8B57)](mailto:mdsafwanbinrashid2@gmail.com)
-
----
-
 I am particularly interested in Computational Psychology w/ focus on applying Machine Learning and Artificial Intelligence to understand and model human cognition. Driven by the thought that one can solve any problem of the universe, as long as one can convert it into numbers (tensors) and find a pattern.
 
 ## 🎓 Education
