@@ -1,5 +1,4 @@
 #### Driven by the thought that one can solve any problem of the universe using ML / DL, as long as one can convert it into numbers (tensors) and find a pattern.
-[![Hits](https://hits.sh/github.com/YOUR_USERNAME.svg?label=Profile%20Views&color=000000&labelColor=ff0000&style=for-the-badge)](https://hits.sh/github.com/YOUR_USERNAME/)
 ---
 
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FF0000)
