@@ -27,7 +27,7 @@ I am particularly interested in Computational Psychology w/ focus on applying Ma
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=red)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=red)
 ![Colab](https://img.shields.io/badge/Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=red)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=red)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=red)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=red)
 ![Xcode](https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode&logoColor=red)
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=red)
