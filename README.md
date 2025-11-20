@@ -7,9 +7,9 @@ I am particularly interested in Computational Psychology w/ focus on applying Ma
 
 ## 🎓 Education
 
-![CompSci Sophomore](https://img.shields.io/badge/CompSci_Sophomore-000000?style=for-the-badge&logo=computer&logoColor=red)
-![Psych Minor](https://img.shields.io/badge/Psych_Minor-000000?style=for-the-badge&logo=brain&logoColor=red)
-![USM](https://img.shields.io/badge/USM-000000?style=for-the-badge&logo=graduation-cap&logoColor=red)
+![B.S. Computer Science](https://img.shields.io/badge/B.S._Computer_Science-000000?style=for-the-badge&logo=code&logoColor=red)
+![Psychology Minor](https://img.shields.io/badge/Psychology_Minor-000000?style=for-the-badge&logo=psychology&logoColor=red)
+![University of Southern Mississippi](https://img.shields.io/badge/University_of_Southern_Mississippi-000000?style=for-the-badge&logo=graduation-cap&logoColor=red)
 
 ---
 
