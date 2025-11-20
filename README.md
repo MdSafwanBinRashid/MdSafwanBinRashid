@@ -5,7 +5,11 @@
 
 I am particularly interested in Computational Psychology w/ focus on applying Machine Learning and Artificial Intelligence to understand and model human cognition. Driven by the thought that one can solve any problem of the universe, as long as one can convert it into numbers (tensors) and find a pattern.
 
-**Education:** B.S. Computer Science, Minor in Psychology @ University of Southern Mississippi  
+## 🎓 Education
+
+![CompSci Sophomore](https://img.shields.io/badge/CompSci_Sophomore-0077B5?style=for-the-badge&logo=computer&logoColor=white)
+![Psych Minor](https://img.shields.io/badge/Psych_Minor-8A2BE2?style=for-the-badge&logo=psychology&logoColor=white)
+![USM](https://img.shields.io/badge/USM-FFD700?style=for-the-badge&logo=university&logoColor=black)
 
 ---
 
