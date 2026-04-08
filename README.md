@@ -20,3 +20,4 @@
 ![Xcode](https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode&logoColor=FF0000)
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=FF0000)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?style=for-the-badge&logo=autodesk&logoColor=FF0000)
+![Kivy](https://img.shields.io/badge/Kivy-000000?style=for-the-badge&logo=kivy&logoColor=FF0000)
